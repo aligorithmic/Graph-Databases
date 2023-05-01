@@ -12,8 +12,14 @@ https://neo4j.com/developer/cypher/
 Apache TinkerPop
 https://tinkerpop.apache.org/
 
+Apache Giraph
+https://giraph.apache.org/
+
 JanusGraph
 https://janusgraph.org/
+
+HyperGraphDB
+http://www.hypergraphdb.org/
 
 Neo4J
 https://neo4j.com/
@@ -34,4 +40,12 @@ https://www.ontotext.com/products/graphdb/
 
 RedisGraph
 https://redis.com/modules/redis-graph/
+
+Nebula Graph
+https://www.nebula-graph.io/
+
+Memgraph
+https://memgraph.com/
+
+
 
